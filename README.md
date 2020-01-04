@@ -9,6 +9,7 @@
 |更新时间|2019/12/8|
 |项目负责人|SHIRKING|
 |项目状态|起草中|
+|第一更新地|[gitee链接](https://gitee.com/NFUNM045/CopywritingAssistant)|
 
 
 #### 项目简介（60秒价值主张）
